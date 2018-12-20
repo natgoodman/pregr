@@ -3,10 +3,10 @@ title: "Preregistration as a Means to Improve Science"
 author: "Nathan (Nat) Goodman"
 date: "December 20, 2018"
 output:
-  pdf_document: default
-  html_document: default
   github_document:
     html_preview: no
+  html_document: default
+  pdf_document: default
 linkcolor: cyan
 citecolor: green
 urlcolor: blue
@@ -15,7 +15,7 @@ urlcolor: blue
 
 *A collection of R scripts and documents exploring the usefulness of preregistration as a means of improving science.*
 
-The current version contains just a single document ["Preregistration: Hold the Bus!"](https://natgoodman.github.io/pregr/pregr.stable.html). There is also a [pdf version](https://natgoodman.github.io/pregr/pregr.stable.pdf). There is no code or data yet.
+The current version contains just a single document ["Preregistration: Hold the Bus!"](https://natgoodman.github.io/pregr/holdit.stable.html). There is also a [pdf version](https://natgoodman.github.io/pregr/holdit.stable.pdf). There is no code or data yet.
 
 ## Comments Please!
 
