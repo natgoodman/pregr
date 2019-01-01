@@ -1,7 +1,7 @@
 ---
 title: 'Preregistration: Hold the Bus!'
 author: "Nathan (Nat) Goodman"
-date: "December 20, 2018"
+date: "January 1, 2019"
 output:
   pdf_document: default
   html_document:
@@ -12,7 +12,7 @@ citecolor: green
 urlcolor: blue
 ---
 
-A recent [news piece in Nature](https://www.nature.com/articles/d41586-018-07118-1) reported in glowing terms on the “first analysis of ‘pre-registered’ studies”, stating that “[pre-registration] seems to work as intended: to reduce publication bias for positive results.” The true story is not so clearcut.
+A recent [news piece in Nature](https://www.nature.com/articles/d41586-018-07118-1) reported in glowing terms on the “first analysis of ‘pre-registered’ studies”, stating that “[pre-registration] seems to work as intended: to reduce publication bias for positive results.” There are reasons to be somewhat dubious about this claim.
 
 The analysis in question appears in a preprint [Open Science challenges, benefits and tips in early career and beyond](https://psyarxiv.com/3czyt/). The analysis is a small part of the paper, occupying about half a page of an 11 page document. The paper draws no strong claims from the data; the Nature story goes well beyond what the paper says, though I can easily believe the authors waxed proudly about their results when interviewed by the journalist.
 
@@ -38,7 +38,7 @@ Preregistration will make it harder and more costly to do research and the likel
 
 Are you willing to risk these unintended consequences without a proper controlled study of the proposed change? I hope not. 
 
-This begs the question of how to do such a study as there is no obvious way to blind participants as to whether they’re in the treatment (preregistration) or control group. An alternative is to look at experience in other fields where preregistration has been in effect for a long time, for example, medical research. Spoiler alert: the experience isn’t as positive as the Nature report suggests.
+This begs the question of how to do such a study as there is no obvious way to blind participants as to whether they’re in the treatment (preregistration) or control group. An alternative is to look at the experience in other fields where preregistration has been in effect for a long time, for example, medical research. To date, this has not been subject to rigorous study. However, it is this author’s assessment that the outcome is not as positive as the Nature report suggests.
 
 ## Comments Please!
 
