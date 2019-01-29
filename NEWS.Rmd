@@ -1,7 +1,7 @@
 ---
 title: "Revision history for pregr repository"
 author: "Nathan (Nat) Goodman"
-date: "January 1, 2019"
+date: "January 28, 2019"
 output:
   pdf_document: default
   html_document: default
@@ -12,6 +12,10 @@ citecolor: green
 urlcolor: blue
 ---
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
+
+## Release 1.01 2019-01-28
+
+- Add words to all documents on posting comments using social media
 
 ## Release 1.00 2019-01-01
 

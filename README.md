@@ -17,4 +17,4 @@ There is no code or data yet.
 Comments Please!
 ----------------
 
-Please post comments using the [GitHub Issue Tracker](https://github.com/natgoodman/pregr/issues).
+Please post comments on [Twitter](https://twitter.com/gnatgoodman) or [Facebook](https://www.facebook.com/nathan.goodman.3367), or contact me by email <natg@shore.net>.

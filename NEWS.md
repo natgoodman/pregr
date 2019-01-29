@@ -1,9 +1,14 @@
 Revision history for pregr repository
 ================
 Nathan (Nat) Goodman
-January 1, 2019
+January 28, 2019
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
+Release 1.01 2019-01-28
+-----------------------
+
+-   Add words to all documents on posting comments using social media
+
 Release 1.00 2019-01-01
 -----------------------
 

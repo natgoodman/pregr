@@ -42,5 +42,4 @@ This begs the question of how to do such a study as there is no obvious way to b
 
 ## Comments Please!
 
-Please post comments using the [GitHub Issue Tracker](https://github.com/natgoodman/pregr/issues).
-
+Please post comments on [Twitter](https://twitter.com/gnatgoodman) or [Facebook](https://www.facebook.com/nathan.goodman.3367), or contact me by email [natg@shore.net](mailto:natg@shore.net).
