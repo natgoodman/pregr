@@ -3,15 +3,19 @@ title: "Revision history for pregr repository"
 author: "Nathan (Nat) Goodman"
 date: "January 28, 2019"
 output:
-  pdf_document: default
   html_document: default
   github_document:
     html_preview: no
+  pdf_document: default
 linkcolor: cyan
 citecolor: green
 urlcolor: blue
 ---
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
+
+## Release 1.10 2109-06-20
+
+- [Posted version of debate with Bob Reed](https://replicationnetwork.com/2019/06/19/goodman-reed-a-friendly-debate-about-pre-registration/)
 
 ## Release 1.01 2019-01-28
 
